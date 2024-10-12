@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Prazer, me chamo Luan ou talvez você me conheça por SAOvador Atualmente tenho 21 anos e vivo em Recife, Brasil. Sou estudante de Sistemas de Informação e iniciante em programação.</p>
+<p align="left">👋 Prazer, me chamo Luan ou talvez você me conheça por SAOvador. Atualmente tenho 21 anos e vivo em Recife, Brasil. Sou estudante de Sistemas de Informação e iniciante em programação.</p>
 
 ###
 
