@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">👋 Prazer, me chamo Luan ou talvez você me conheça por SAOvador. Atualmente tenho 21 anos e vivo em Recife, Brasil. Sou estudante de Sistemas de Informação e iniciante em programação.</p>
-
-###
-
 <div align="left">
   <a href="https://x.com/SAOvador_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">👋 Prazer, me chamo Luan ou talvez você me conheça por SAOvador. Atualmente tenho 21 anos e vivo em Recife, Brasil. Sou estudante de Sistemas de Informação e iniciante em programação.</p>
 
 ###
 
